@@ -1,4 +1,4 @@
-package asd;
+package boj20061;
 
 import java.util.Scanner;
 
@@ -202,13 +202,3 @@ public class Main {
 	}
 
 }
-
-
-/*
-5
-1 1 1
-2 3 0
-3 2 2
-3 2 3
-3 1 3
- */
